@@ -1,5 +1,5 @@
 {
-  "name": "Sparkline",
+  "name": "@foxythemes/sparkline",
   "title": "jQuery Sparkline",
   "description": "Easily generate small, inline sparkline charts directly in the browser",
   "keywords": ["canvas", "charts", "graphics", "graphing", "graphs", "sparklines", "ui", "vml"],
